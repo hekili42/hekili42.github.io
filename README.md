@@ -1,2 +1,2 @@
 # hekili42.github.io
-edits to look for .yml
+Airin H Eddins-Schmidts github page for CS-155
